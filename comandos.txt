@@ -11,3 +11,6 @@ npm uninstall nodemon
 
 // Instalar yargs
 npm install yargs
+
+//Para resutaurar unos cambios no deseados con git
+git checkout -- .
