@@ -1,0 +1,13 @@
+//Para iniciar un package.json
+npm init
+//Los script en el package.json se ejecutan:
+npm run <nombre del script>
+
+//Para Instalar nodemos solo en entorno de desarrollo
+npm install nodemon --save-dev
+
+//Para borrar una dependencia
+npm uninstall nodemon 
+
+// Instalar yargs
+npm install yargs
